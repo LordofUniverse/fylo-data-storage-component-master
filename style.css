@@ -107,6 +107,7 @@ body {
   height: 2rem;
   width: 2rem;
   margin-top: 1.5rem;
+  border-radius: 10px;
 }
 
 .le {
